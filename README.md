@@ -8,8 +8,8 @@ Accessible SSH port: 2200
 ## requirements 
 * The Linux distribution is ubuntu/trusty64.
 * The virtual private server is Googke Cloud platform.
-The web application is my Item Catalog project created earlier in this Nanodegree program.
-The database server is PostgreSQL.
+* The web application is my Item Catalog project created earlier in this Nanodegree program.
+* The database server is PostgreSQL.
 
 # Summry of steps has been done 
 1. create an account in google cloud  and create linux image then create an vm inctanct.
@@ -33,3 +33,11 @@ The database server is PostgreSQL.
 19. edit `databse_setup.py` file 
 # Run the application 
 http://35.229.92.124.xip.io
+
+# Resources 
+* https://github.com/FahadAlsubaie/linux_server_configuration
+* https://github.com/iliketomatoes/linux_server_configuration
+* https://github.com/boisalai/udacity-linux-server-configuration#step-3-update-and-upgrade-installed-packages
+* https://github.com/adityamehra/udacity-linux-server-configuration
+* https://github.com/anumsh/Linux-Server-Configuration
+* https://github.com/bencam/linux-server-configuration
