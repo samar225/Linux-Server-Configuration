@@ -1,5 +1,5 @@
 # Linux-Server-Configuration
-##Description
+# Description
 To install a linux on virtual machine and make it host your web applications.
 IP address: 35.229.92.124
 Accessible SSH port: 2200
