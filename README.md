@@ -31,3 +31,5 @@ The database server is PostgreSQL.
 17. rename the project file from `project.py` to `__init__.py`
 18. edit calling json file in project code  
 19. edit `databse_setup.py` file 
+# Run the application 
+http://35.229.92.124.xip.io
