@@ -6,8 +6,8 @@ Accessible SSH port: 2200
 
 ----------------------------
 ## requirements 
-The Linux distribution is ubuntu/trusty64.
-The virtual private server is Googke Cloud platform.
+* The Linux distribution is ubuntu/trusty64.
+* The virtual private server is Googke Cloud platform.
 The web application is my Item Catalog project created earlier in this Nanodegree program.
 The database server is PostgreSQL.
 
