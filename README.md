@@ -16,10 +16,10 @@
 2. generate pair of keys and put the public key in the sitting of ssh keys in google cloud vm instance.
 3. connect from local vagrant to the new server we have created in step 1 and add grader user with sudo permition
 4. set the firewall.
-  1. `sudo ufw allow 2200/tcp`
-  2. `sudo ufw allow 123/udp`
-  3. ` sudo ufw allow www`
-  4. `sudo ufw enable`
+   1. `sudo ufw allow 2200/tcp`
+   2. `sudo ufw allow 123/udp`
+   3. ` sudo ufw allow www`
+   4. `sudo ufw enable`
 5. change the port number fromm 22 to 2200 and add other ports to the firewall.
 6. update packges.
 7. set the time zone.
